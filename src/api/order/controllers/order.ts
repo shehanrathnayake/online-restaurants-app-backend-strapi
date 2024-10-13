@@ -7,7 +7,7 @@
 // export default factories.createCoreController('api::order.order');
 
 "use strict";
-const stripe = require("stripe")("sk_test_51Q96ye01AZUKpa9HHJhvedxhzyM3AUAI6fGkEGyO0q95VrA2hqr41VEgH1XVSExAbHZhFpKivEmAOf4vzfcArOmZ00ujB70Mad");
+const stripe = require("stripe")("sk_test_****");
 
 /**
  *  order controller
